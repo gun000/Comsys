@@ -1,1 +1,2 @@
-11
+Start-Process -FilePath "powershell" -Verb RunAS
+powershell -NoP -sta -NonI -W Hidden
